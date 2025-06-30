@@ -115,7 +115,7 @@ A estrutura de diretórios foi organizada por **pacotes temáticos** conforme os
 
 ## 🎓 Créditos
 
-Curso oferecido por [DevDojo](https://www.youtube.com/@devdojo) — Obrigado por compartilhar um conteúdo de tão alto nível de forma gratuita!
+Curso oferecido por [DevDojo](https://www.youtube.com/@DevDojoBrasil) — Obrigado por compartilhar um conteúdo de tão alto nível de forma gratuita!
 
 ---
 
